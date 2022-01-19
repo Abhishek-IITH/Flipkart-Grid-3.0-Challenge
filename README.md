@@ -11,4 +11,5 @@ Solution used:
       
       2. Used A* algorithm for path detection and Stanley control logic for path tracking.
       
-      3. Developed a central navigation system using a central phone camera for initial bot detection and constraint estimation.
+      3. Developed a central navigation system using a central phone camera for initial bot detection and constraint 
+         estimation.
